@@ -6,13 +6,6 @@ namespace Data
 {
     public class DataMng
     {
-        static void main(string[] args)
-        {
-            User user;
-            public static int usercount;
-
-            
-
-        }
+        public int usercount;
     }
 }
