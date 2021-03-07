@@ -2,7 +2,7 @@
 
 namespace Data
 {
-    public class UserData
+    public class User
     {
         static void main(string[] args)
         {
