@@ -14,6 +14,10 @@ let PaymentData
         sequrityCode = 000,
         provider = "Visa"
     }
+    UserData = 
+    {
+        previousPurchasesAllCompleted = false,
+    }
 }
 
 function userCountUpdate()
