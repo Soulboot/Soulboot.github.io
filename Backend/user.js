@@ -8,9 +8,9 @@ let PaymentData
 {
     cardData =
     {
-        cardNumber = 0000-0000-0000-0000,
+        cardNumber = "0000-0000-0000-0000",
         nameOnCard = "Name LastName",
-        expDate = 00/00,
+        expDate = "00/00",
         sequrityCode = 000,
         provider = "Visa"
     }
