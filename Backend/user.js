@@ -4,6 +4,17 @@
 let user = "userName";
 let userCount = 0;
 let userId = 0;
+let PaymentData
+{
+    cardData =
+    {
+        cardNumber = 0000-0000-0000-0000,
+        nameOnCard = "Name LastName",
+        expDate = 00/00,
+        sequrityCode = 000,
+        provider = "Visa"
+    }
+}
 
 function userCountUpdate()
 {
