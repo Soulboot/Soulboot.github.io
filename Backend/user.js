@@ -14,12 +14,12 @@ let PaymentData
         expDate = "00/00",
         sequrityCode = 000,
         provider = "other"
-    }
+    };
     UserData = 
     {
         previousPurchasesAllCompleted = false,
-    }
-}
+    };
+};
 
 function userCountUpdate()
 {
@@ -31,5 +31,5 @@ function userCountUpdate()
 function PurchaceProsscessing()
 {
 
-}
+};
 
