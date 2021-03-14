@@ -13,7 +13,7 @@ let PaymentData
         nameOnCard = "Name LastName",
         expDate = "00/00",
         sequrityCode = 000,
-        provider = "Visa"
+        provider = "other"
     }
     UserData = 
     {
