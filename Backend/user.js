@@ -9,11 +9,11 @@ let PaymentData
 {
     cardData =
     {
-        cardNumber = "0000-0000-0000-0000",
-        nameOnCard = "Name LastName",
-        expDate = "00/00",
-        sequrityCode = 000,
-        provider = "other"
+        cardNumber :String = "0000-0000-0000-0000",
+        nameOnCard :String = "Name LastName",
+        expDate :String = "00/00",
+        sequrityCode :Number = 000,
+        provider :String = "other"
     };
     UserData = 
     {
